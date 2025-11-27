@@ -1,0 +1,2 @@
+# git-tarea
+tarea git
